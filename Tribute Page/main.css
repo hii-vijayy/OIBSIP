@@ -7,7 +7,8 @@ body{
 }
 
 .container{
-    margin: 0;
+    width: 80%;
+    margin:auto;
     padding: 0;
 }
 
@@ -21,7 +22,7 @@ body{
     padding: 50px; /* Matching padding with .biography */
     margin: 10px;
     margin-top: 50px; /* Adjusted to match .biography */
-    background-color: #ACE1AF;
+    background-color: #90d594;
     overflow: hidden; /* Clear floats */
 }
 
@@ -62,7 +63,7 @@ body{
     margin: 10px;
     /* margin-top: 50px; */
     width: fit-content;
-    background-color: #BFF6C3;
+    background-color: #c0e9c2;
     padding: 50px;
     overflow: hidden; /* Clear floats */
 }
